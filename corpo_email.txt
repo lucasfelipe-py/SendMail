@@ -1,0 +1,8 @@
+Bom dia!
+
+Este é um e-mail teste enviado com Python.
+
+Atenciosamente,
+Lucas
+fone: (xx) x xxxx-xxxx
+email: xxxxxxxxxxx@xxxx.com.br
